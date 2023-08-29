@@ -175,10 +175,11 @@ Binance Smart Chain: Offers lower transaction fees and is becoming increasingly 
 
 Truffle: A development framework for Ethereum that provides a suite of tools for smart contracts.
 Web3.js / Web3.py: Libraries to interact with the Ethereum blockchain.
-python
-Copy code
 
 # Example: Interacting with Ethereum using Web3.py
+
+python
+Copy code
 
 from web3 import Web3
 
@@ -194,10 +195,11 @@ ENS: Ethereum Name Service can be used to map human-readable names to blockchain
 Continuous Integration/Continuous Deployment (CI/CD)
 Jenkins: For automating parts of the development process.
 Docker: For containerization and easier deployment.
-python
-Copy code
 
 # Example: Dockerfile for Ethereum Node
+
+python
+Copy code
 
 FROM ethereum/client-go:latest
 
@@ -213,10 +215,11 @@ ENS: Ethereum Name Service can be used to map human-readable names to blockchain
 Continuous Integration/Continuous Deployment (CI/CD)
 Jenkins: For automating parts of the development process.
 Docker: For containerization and easier deployment.
-python
-Copy code
 
 # Example: Dockerfile for Ethereum Node
+
+python
+Copy code
 
 FROM ethereum/client-go:latest
 
